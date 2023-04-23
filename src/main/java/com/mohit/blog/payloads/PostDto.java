@@ -9,6 +9,7 @@ import lombok.Data;
 @Data
 public class PostDto {
 
+	private Integer postId;
 	private String title;
 	
 	private String content;

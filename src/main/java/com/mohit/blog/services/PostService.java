@@ -2,7 +2,6 @@ package com.mohit.blog.services;
 
 import java.util.List;
 
-import com.mohit.blog.entities.Post;
 import com.mohit.blog.payloads.PostDto;
 import com.mohit.blog.payloads.PostResponse;
 
